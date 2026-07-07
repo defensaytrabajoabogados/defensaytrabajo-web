@@ -1,0 +1,6 @@
+{
+    "tomcat.deployWar": true,
+    "tomcat.tomcatPath": "C:\\Program Files\\Apache Software Foundation\\Tomcat 10.1",
+    "tomcat.port": 8080,
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
